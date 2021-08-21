@@ -1,6 +1,5 @@
 ### Hello, folks 👋
 
-- I've finished front end developing course
  -I Am looking forward to join a new team
  - 📫 How to reach me: 
  - email: oroz1111omurkulov@gmail.com
