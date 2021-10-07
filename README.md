@@ -1,10 +1,6 @@
 ### Hello, folks 👋
-
- -I Am looking forward to join a new team
  - 📫 How to reach me: 
  - email: oroz1111omurkulov@gmail.com
- -phone number +996705161673
- -linkedIn https://www.linkedin.com/in/orozobek-omurkulov-1490b516b/
 
 <!--
 **orozobek-omurkulov/orozobek-omurkulov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
